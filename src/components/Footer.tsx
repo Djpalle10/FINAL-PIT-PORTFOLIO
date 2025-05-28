@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="text-center mb-8">
           <h3 className="text-2xl font-semibold mb-4">Let's Connect</h3>
           <p className="text-slate-300 mb-6">
-            Thank you for viewing my Final PIT Portfolio. I'm always open to discussing new opportunities and interesting projects.
+            I'm always open to discussing new opportunities and interesting projects.
           </p>
           
           <div className="flex justify-center gap-6 mb-8">
@@ -30,10 +30,10 @@ const Footer = () => {
         
         <div className="border-t border-slate-700 pt-8 text-center">
           <p className="text-slate-400 flex items-center justify-center gap-2">
-            Made with <Heart size={16} className="text-red-500" /> for my Final PIT Portfolio
+            Made with <Heart size={16} className="text-red-500" /> by Your Name
           </p>
           <p className="text-slate-500 text-sm mt-2">
-            © 2024 Final PIT Portfolio. All rights reserved.
+            © 2024 Portfolio. All rights reserved.
           </p>
         </div>
       </div>
